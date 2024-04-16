@@ -13,14 +13,14 @@ const FAQ = () => {
   });
 
   return (
-    <div className="lg:px-0 px-[15px]">
+    <div className="lg:px-0 px-[15px] bg-[url('../src/assets/FAQ.jpg')] bg-left-bottom bg-cover">
           <div className="container mx-auto font-pops">
       <div className="lg:mt-[170px] mt-[130px]">
         <div className="flex flex-wrap">
-            <div className="lg:w-[60%] w-full">
+            <div className="lg:w-[60%] lg:order-1 order-2 w-full ">
                 <img className='lg:w-[80%] w-full' src={faq} alt="" />
             </div>
-            <div className="lg:w-[40%] w-full">
+            <div className="lg:w-[40%] lg:order-2 order-1 w-full">
                  <div className="">
                     <h2 data-aos="fade-up" className='lg:text-[42px] text-[28px] font-bold lg:mt-[130px] mt-[50px]'>Nothing Can Substitute <span className='text-[#3C95FA] hover:text-[black] transition duration-500'>Experience</span></h2>
                     <p data-aos="fade-up" className='text-[16px] text-[#444444] font-medium py-[25px]'>Experiencing lots of things to gain wisdom. I’ve been awarded as a <span className='font-bold'>Frontend Developer</span> on <span className='font-bold'>Fiverr</span> for making websites and banners. Beside this, I have some other identities as well. I’m passioniate about technology and businesses. So I’m <span className='font-bold'>investing</span> on <span className='font-bold'>opportunities</span> and building <span className='font-bold'>businesses</span>.</p>
