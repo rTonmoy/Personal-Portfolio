@@ -72,7 +72,7 @@ Then in 2020, we fully started our offline operations in a rented flat at Aftabn
 
   <h2 id="accordion-collapse-heading-4">
     <button data-aos="fade-up" type="button" class="flex items-center justify-between w-full p-5 font-bold border-b-[1px] border-[#00000030] text-[18px] text-[black] gap-3" data-accordion-target="#accordion-collapse-body-4" aria-expanded="false" aria-controls="accordion-collapse-body-4">
-      <span>Moin - As an investor</span>
+      <span>Tonmoy - As an investor</span>
       <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
       </svg>
